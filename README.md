@@ -5,7 +5,7 @@
 <p align="left">
   <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
   <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="" target="_blank"> <img src="https://camo.githubusercontent.com/7afdcace77d46b183e4245770d62b706bf3cebda45d160e434a11044bd13a9ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d33323333333026636f6c6f723d663064623466" alt="javascript" width="40" height="40" /> </a>
+  <a href="" target="_blank"> <img src="https://camo.githubusercontent.com/7afdcace77d46b183e4245770d62b706bf3cebda45d160e434a11044bd13a9ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d33323333333026636f6c6f723d663064623466" alt="javascript"/> </a>
   <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
 </p>
 
