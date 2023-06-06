@@ -9,6 +9,8 @@
   <a target="_blank"> <img src="https://camo.githubusercontent.com/74ef7ac5f36e5459fcfc88ed13935b78d6db7a373a4e33b1f6c21dbf27fe611a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d66666666666626636f6c6f723d303636643839" alt="react" /> </a>
   <a target="_blank"> <img src="https://camo.githubusercontent.com/dbb9ad0ad8654adb7a28218c68651739e83baf15b6e14fc9d34dc57693ccb866/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d303037616363" alt="vscode" /> </a>
 </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=or1nn)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **or1nn/or1nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
