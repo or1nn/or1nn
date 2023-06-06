@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/ea0dbd20-b0d5-46f4-8be2-3305681196be.svg)](https://wakatime.com/@ea0dbd20-b0d5-46f4-8be2-3305681196be)
 
 <!--
 **or1nn/or1nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
