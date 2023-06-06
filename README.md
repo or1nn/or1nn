@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+Frontend Developer
+
 [![wakatime](https://wakatime.com/badge/user/ea0dbd20-b0d5-46f4-8be2-3305681196be.svg)](https://wakatime.com/@ea0dbd20-b0d5-46f4-8be2-3305681196be)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,7 +13,6 @@
   <a target="_blank"> <img src="https://camo.githubusercontent.com/dbb9ad0ad8654adb7a28218c68651739e83baf15b6e14fc9d34dc57693ccb866/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d303037616363" alt="vscode" /> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=or1nn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
