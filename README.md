@@ -13,10 +13,6 @@ Frontend Developer
   <a target="_blank"> <img src="https://camo.githubusercontent.com/dbb9ad0ad8654adb7a28218c68651739e83baf15b6e14fc9d34dc57693ccb866/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d303037616363" alt="vscode" /> </a>
 </p>
 
-<h3 align="left">LeetCode:</h3>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=or1nn&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 
 
 
