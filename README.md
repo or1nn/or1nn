@@ -11,7 +11,7 @@ I am a Frontend Developer from Russia.
 
 <h3 align="left">🔥 Languages and Tools</h3>
 <div>
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  [React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </div>
 
 
