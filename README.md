@@ -17,8 +17,7 @@ I am a Frontend Developer from Russia.
   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="36" height="36"> 
   <img src="https://camo.githubusercontent.com/d8bfd8a9fdd10125b6f78135226375f25c8fecf6c3a7a5ff2138ed09d0663c9f/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" width="36" height="36"> 
   <img src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36"> 
-  <img src="https://camo.githubusercontent.com/c6c2090f5f1c5f17280533d3ef368dc48090afaa8b112ed42f21787eee27ea27/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e6f64656a732d69636f6e2d766563746f722d30322e737667" width="36" height="36"> 
-  <img src="https://camo.githubusercontent.com/c6c2090f5f1c5f17280533d3ef368dc48090afaa8b112ed42f21787eee27ea27/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e6f64656a732d69636f6e2d766563746f722d30322e737667" width="36" height="36"> 
+  <img src="https://camo.githubusercontent.com/c6c2090f5f1c5f17280533d3ef368dc48090afaa8b112ed42f21787eee27ea27/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e6f64656a732d69636f6e2d766563746f722d30322e737667" width="36" height="36">
 </div>
 
 
